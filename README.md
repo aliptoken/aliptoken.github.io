@@ -1,66 +1,22 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/strxcz/alip/logo1.png" width="100" />
+  <img alt="Logo" src="https://github.com/strxcz/alip/icon1.png" width="100" />
 </div>
 <h1 align="center">
 Alip Token
 </h1>
 <p align="center">
-  The second iteration of <a href="https://chandrikadeb7.github.io/" target="_blank">chandrikadeb7.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+  
 </p>
 <p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
+  
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/chandrikadeb7/chandrikadeb7.github.io/blob/code/src/images/demo.png" />
+  
 </div>
 
-### TL;DR
+Thanks!
 
-Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
-
-## 🛠 Installation & Set Up
-
-1. Install the Gatsby CLI
-
-   ```sh
-   npm install -g gatsby-cli
-   ```
-
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
-
-   ```sh
-   nvm install
-   ```
-
-3. Install dependencies
-
-   ```sh
-   yarn
-   ```
-
-4. Start the development server
-
-   ```sh
-   npm start
-   ```
-
-## 🚀 Building and Running for Production
-
-1. Generate a full static production build
-
-   ```sh
-   npm run build
-   ```
-
-1. Preview the site as it will appear once deployed
-
-   ```sh
-   npm run serve
-   ```
-
-## 🎨 Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
