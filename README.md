@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://aliptoken.github.com/src/images/icon1.png" width="100" />
+  <img alt="Logo" src="https://aliptoken.github.io/src/images/icon1.png" width="100" />
 </div>
 <h1 align="center">
 Alip Token
